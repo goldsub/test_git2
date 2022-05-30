@@ -13,6 +13,6 @@ public class Hello : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("되돌리기 테스트");
+        
     }
 }
